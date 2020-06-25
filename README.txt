@@ -3,8 +3,6 @@
 !!! important
     This example refers to the latest versions of CARLA (at least 0.9.5)
 
-Welcome to the ScenarioRunner for CARLA! This tutorial provides the basic steps
-for getting started using the ScenarioRunner for CARLA.
 
 Download the latest release from our GitHub page and extract all the contents of
 the package in a folder of your choice.
