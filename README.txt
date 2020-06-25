@@ -2,11 +2,8 @@
 
 !!! important
     This example refers to the latest versions of CARLA (at least 0.9.5)
-
-
-Download the latest release from our GitHub page and extract all the contents of
-the package in a folder of your choice.
-
+    
+    This code has been edited to Windows version and could directly run in Windows system.
 
 ## Installing prerequisites
 The current version is designed to be used with Win 64 bit, Python 3.8. 
